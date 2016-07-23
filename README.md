@@ -1,6 +1,6 @@
 # skeleton
-A neat python web frame work
+A neat python web frame work<br>
 
-cd to the directory of server.py 
-then type:python server.py
-view localhost:8000/index/
+cd to the directory of server.py<br>
+then type:python server.py     <br>
+view localhost:8000/index/<br>
